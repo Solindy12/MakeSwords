@@ -1,0 +1,19 @@
+main: com.solindy.Main
+name: MakeSwords
+version: 0.1 ALPHA
+author: Solindy
+commands:
+  setreinbench:
+    permission: op
+    permission-message: §cYou don't have permission to execute this command.
+  resetreinbench:
+    permission: op
+    permission-message: §cYou don't have permission to execute this command.
+  team:
+    permission: op
+    permission-message: §cYou don't have permission to execute this command.
+  test:
+    description: test command
+  ms:
+    description: default command
+    permission: op
